@@ -1,0 +1,4 @@
+(ns app.tree)
+
+(defn main [& args]
+  (prn :todo args))

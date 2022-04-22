@@ -1,0 +1,2 @@
+{:deps {tensegritics/clojuredart {:git/url "https://github.com/tensegritics/ClojureDart.git"
+                                  :git/sha "9e63720583bb05dba1987e541ed06946e0ed0eaa"}}}
